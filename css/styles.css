@@ -101,27 +101,28 @@ section div{
 /*fin main*/
 /*comienzo de estadio*/
 
-#estadosunidos,#estadosubidos tr,#estadosunidos td,#estadosunidos th,{
-  border: solid deeppink;
-border-collapse: collapse;
-}
-#canada,#canada tr,#canada td,#canada th,{
-  border: solid deeppink;
+#estadosunidos, #estadosunidos tr, #estadosunidos td,#estadosunidos th{
+  border:deeppink 3px;
   border-collapse: collapse;
 }
-#mexico,#mexico tr,#mexico td,#mexico th,{
-  border: solid deeppink;
-  border-collapse: collapse;
-}
+ 
+  #canada, #canada tr, #canada td,#canada th{
+    border:deeppink 3px;
+    border-collapse: collapse;
+  }
+   
+    #mexico, #mexico tr, #mexico td,#mexio th{
+      border:deeppink 3px;
+      border-collapse: collapse;
+    }
+     
 #estadios img{
   width: 200px;
 }
 
 /*fin de estadio*/
 
-#estadosunidos, #estadosunidos tr, #estadosunidos td,#estadosunidos th{
-  border:deeppink 3px;
-  border-collapse: collapse;
+
 }
 
 /*inicio del footer*/
