@@ -113,8 +113,10 @@ border-collapse: collapse;
   border: solid deeppink;
   border-collapse: collapse;
 }
+#estadios img{
+  width: 200px;
+}
 
-#estadios img
 /*fin de estadio*/
 
 #estadosunidos, #estadosunidos tr, #estadosunidos td,#estadosunidos th{
