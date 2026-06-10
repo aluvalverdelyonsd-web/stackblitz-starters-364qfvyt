@@ -101,11 +101,20 @@ section div{
 /*fin main*/
 /*comienzo de estadio*/
 
-#tabel,td,th{
-  background-color: 8px solid deeppink;
-  background-position: center;
+#estadosunidos,#estadosubidos tr,#estadosunidos td,#estadosunidos th,{
+  border: solid deeppink;
+border-collapse: collapse;
+}
+#canada,#canada tr,#canada td,#canada th,{
+  border: solid deeppink;
+  border-collapse: collapse;
+}
+#mexico,#mexico tr,#mexico td,#mexico th,{
+  border: solid deeppink;
+  border-collapse: collapse;
 }
 
+#estadios img
 /*fin de estadio*/
 
 #estadosunidos, #estadosunidos tr, #estadosunidos td,#estadosunidos th{
