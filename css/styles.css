@@ -189,8 +189,20 @@ width: 100%;
 }
 /*El titulo del pais ocupa las dos columnas*/
 .pais {
-  
+grid-column: span 2;
+padding: 10px;
+font-weight: bold;
+font-size: 13px;
+border-bottom: 2px solid #000;
 }
+/*Las fotos se acomodan uno al ldo de la otra automaticamente (50% cada uno)*/
+.foto {
+  min-height: 120px; /*Espcios para la imagen*/
+  padding: 35px 10px 10px 10px;
+  font-size: 11px;
+  border-bottom: 2px solid #000;
+}
+
 .multimedia video{
   width: 600px;
 }
