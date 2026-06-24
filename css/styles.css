@@ -221,6 +221,13 @@ border-bottom: 2px solid #000;
   min-height: 80px;
   font-size: 11px;/*  */
 }
+/*datos de cameones*/
+.paises.foto img{
+width: 100%;
+}
+.resenia p{
+  font-size: 16px;
+}
 .multimedia video{
   width: 600px;
 }
