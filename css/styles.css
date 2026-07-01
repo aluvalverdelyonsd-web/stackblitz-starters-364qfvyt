@@ -178,7 +178,7 @@ width: 100%;
 }
 
 /*Columna Izquierda:Continente ocuparà todo el alto disponible autopmaticamente*/
-.continentes {
+.continente{
   border-right: 2px solid #000;
   padding: 15px 10px;
   font-weight: bold;
